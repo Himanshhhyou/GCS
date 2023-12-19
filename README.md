@@ -16,7 +16,7 @@ Google Cloud Shell is a web-based shell environment provided by Google Cloud Pla
 *Insure that your google account should already logged in google chrome or any particular browser that you are using.*
 
 ### Step 2️⃣
-After logged in successfully you will get an edior and a cloud shell terminal<br><br>
+After logged in successfully you will get an editor and a cloud shell terminal<br><br>
 
 ![step2.png](images/step2.png)
 *You can minimize the editor by clicking on pencil icon at the top bar*
