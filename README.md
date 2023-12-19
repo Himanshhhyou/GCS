@@ -7,7 +7,8 @@ Google Cloud Shell is a web-based shell environment provided by Google Cloud Pla
 
 ### Step 1️⃣
 
-- First open <a href="https://shell.cloud.google.com" target="_blank">Google cloud shell</a>
+- First open
+[Google cloud shell](https://shell.cloud.google.com){:target="_blank"}
 - You will get Google Cloud Shell Welocme Screen(if you are opening cloud shell first time)
 - Tick the checkbox and click on `Start cloud shell`<br><br>
 
