@@ -19,11 +19,13 @@ After logged in successfully you will get an edior and a cloud shell terminal
   ```linux
   sudo apt update
   ```
-- Download the remote desktop and setup file by executing below command in shell terminal
+- Download the remote desktop app by executing below command in shell terminal
     ```linux
-    wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb https://github.com/Himanshhhyou/GCS/blob/main/setup
+    wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
     ```
-- Change the module of setup file by executing below command in shell terminal
-  ```linux
-  chmod +x setup
-  ```
+ - Install remote desktop, xfce4 for graphical enviornment and wine for installing windows applications(.exe files)
+ ```linux
+sudo apt install ./chrome-remote-desktop_current_amd64.deb -y && sudo DEBIAN_FRONTEND=noninteractive \
+    apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver -y && sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session' && sudo systemctl disable lightdm.service && sudo dpkg --add-architecture i386 && sudo apt-get update &&
+sudo apt-get install wine64 wine32 -y
+```
