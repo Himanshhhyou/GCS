@@ -36,3 +36,8 @@ sudo apt-get install wine64 wine32 -y
 
 - Click on `Set up via SSH` <br><br>
 ![step3_2.png](images/step3_2.png)
+
+- Click on **`Begin`** <br><br>
+![step3_3.png](images/step3_3.png)
+
+
