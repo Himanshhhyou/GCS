@@ -11,3 +11,5 @@
 
 ## Step 2
 After logged in successfully you will get an edior and a cloud shell terminal
+
+![step2.png](images/step2.png)
