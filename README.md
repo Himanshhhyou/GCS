@@ -23,7 +23,7 @@ After logged in successfully you will get an edior and a cloud shell terminal
     ```linux
     wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
     ```
- - Install remote desktop, xfce4 for graphical enviornment and wine for installing windows applications(.exe files)
+ - Install remote desktop, xfce4 for graphical enviornment and wine for installing windows applications(.exe files) by executing below command in shell terminal
  ```linux
 sudo apt install ./chrome-remote-desktop_current_amd64.deb -y && sudo DEBIAN_FRONTEND=noninteractive \
     apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver -y && sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session' && sudo systemctl disable lightdm.service && sudo dpkg --add-architecture i386 && sudo apt-get update &&
