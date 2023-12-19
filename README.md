@@ -43,6 +43,6 @@ sudo apt-get install wine64 wine32 -y
 - Click on `Next` <br><br>
 ![step3_4.png](images/step3_4.png)
 
-- Click on `Authorize` <br><br>
+- Click on `Authorize` and copy the Code of `Debian Linux`<br><br>
 ![step3_5.png](images/step3_5.png)
 
