@@ -13,3 +13,9 @@
 After logged in successfully you will get an edior and a cloud shell terminal
 
 ![step2.png](images/step2.png)
+*You can minimize the editor by clicking on pencil icon at the top bar*
+
+- update the shell enviornment
+  ```linux
+  sudo apt update
+  ```
