@@ -4,14 +4,14 @@
 
 - First open <a href="https://shell.cloud.google.com" target="_blank">Google cloud shell</a>
 - You will get Google Cloud Shell Welocme Screen(if you are opening cloud shell first time)
-- Tick the checkbox and click on `Start cloud shell`
+- Tick the checkbox and click on `Start cloud shell`<br><br>
 
 ![welcome.png](images/welcome.png)
 
 *Insure that your google account should already logged in google chrome or any particular browser that you are using.*
 
 ## Step 2
-After logged in successfully you will get an edior and a cloud shell terminal
+After logged in successfully you will get an edior and a cloud shell terminal<br><br>
 
 ![step2.png](images/step2.png)
 *You can minimize the editor by clicking on pencil icon at the top bar*
@@ -48,13 +48,13 @@ sudo apt-get install wine64 wine32 -y
 ![step3_5.png](images/step3_5.png)
 
 ## Step 4
-Now click on `Access Remote Desktop` and click on your online session 
+- Now click on `Access Remote Desktop` and click on your online session<br><br>
 ![step4_1.png](images/step4_1.png)
 
-Enter your PIN that you created while connecting with chrome remote desktop 
+- Enter your PIN that you created while connecting with chrome remote desktop<br><br>
 ![step4_2.png](images/step4_2.png)
 
 ## Finally 
-Enjoy the Cloud based Debian OS with Graphical user interface 
+Enjoy the Cloud based Debian OS with Graphical user interface <br><br>
 ![final.png](images/final.png)
 
