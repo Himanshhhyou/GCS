@@ -29,3 +29,7 @@ sudo apt install ./chrome-remote-desktop_current_amd64.deb -y && sudo DEBIAN_FRO
     apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver -y && sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session' && sudo systemctl disable lightdm.service && sudo dpkg --add-architecture i386 && sudo apt-get update &&
 sudo apt-get install wine64 wine32 -y
 ```
+
+## Step3
+Open [Chrome Remote Desktop](https://remotedesktop.google.com/access)
+![step3_1.png](step3_1.png)
