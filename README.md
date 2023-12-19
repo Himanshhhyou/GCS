@@ -32,7 +32,7 @@ sudo apt-get install wine64 wine32 -y
 ```
 
 ## Step 3
-- Open [Chrome Remote Desktop](https://remotedesktop.google.com/access) <br><br>
+- Open <a href="https://remotedesktop.google.com/access" target="_blank">Chrome Remote Desktop</a><br><br>
 ![step3_1.png](images/step3_1.png)
 
 - Click on `Set up via SSH` <br><br>
