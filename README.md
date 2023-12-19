@@ -1,9 +1,11 @@
 ![](images/Google_Cloud_logo.svg.png)
 
-# What is GCS?
-Google Cloud Shell is a web-based shell environment provided by Google Cloud Platform (GCP). It allows users to access a command-line interface (CLI) directly from their web browsers, eliminating the need for local installations of development tools or the Google Cloud SDK.
+# What is GCS?🤔
+Google Cloud Shell is a web-based shell environment provided by Google Cloud Platform (GCP). It allows users to access a command-line interface (CLI) directly from their web browsers, eliminating the need for local installations of development tools or the Google Cloud SDK.✍️
 
-## Step 1
+### Setup process of free google cloud shell with Graphical user interface👨‍💻
+
+### Step 1️⃣
 
 - First open <a href="https://shell.cloud.google.com" target="_blank">Google cloud shell</a>
 - You will get Google Cloud Shell Welocme Screen(if you are opening cloud shell first time)
@@ -13,7 +15,7 @@ Google Cloud Shell is a web-based shell environment provided by Google Cloud Pla
 
 *Insure that your google account should already logged in google chrome or any particular browser that you are using.*
 
-## Step 2
+### Step 2️⃣
 After logged in successfully you will get an edior and a cloud shell terminal<br><br>
 
 ![step2.png](images/step2.png)
@@ -34,7 +36,7 @@ sudo apt install ./chrome-remote-desktop_current_amd64.deb -y && sudo DEBIAN_FRO
 sudo apt-get install wine64 wine32 -y
 ```
 
-## Step 3
+### Step 3️⃣
 - Open <a href="https://remotedesktop.google.com/access" target="_blank">Chrome Remote Desktop</a><br><br>
 ![step3_1.png](images/step3_1.png)
 
@@ -50,14 +52,14 @@ sudo apt-get install wine64 wine32 -y
 - Click on `Authorize` and copy the Code of `Debian Linux`<br><br>
 ![step3_5.png](images/step3_5.png)
 
-## Step 4
+### Step 4️⃣
 - Now click on `Remote Access` and click on your online session<br><br>
 ![step4_1.png](images/step4_1.png)
 
 - Enter your PIN that you created while connecting with chrome remote desktop<br><br>
 ![step4_2.png](images/step4_2.png)
 
-## Finally 
-Enjoy the Cloud based Debian OS with Graphical user interface <br><br>
+## Finally
+🙆Enjoy the Cloud based Debian OS with Graphical user interface in your browser<br><br>
 ![final.png](images/final.png)
 
