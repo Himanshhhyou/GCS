@@ -1,6 +1,6 @@
-# Google Cloud Shell
 ![](images/Google_Cloud_logo.svg.png)
 
+# What is GCS?
 Google Cloud Shell is a web-based shell environment provided by Google Cloud Platform (GCP). It allows users to access a command-line interface (CLI) directly from their web browsers, eliminating the need for local installations of development tools or the Google Cloud SDK.
 
 ## Step 1
