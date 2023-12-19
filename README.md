@@ -48,7 +48,7 @@ sudo apt-get install wine64 wine32 -y
 ![step3_5.png](images/step3_5.png)
 
 ## Step 4
-- Now click on `Access Remote Desktop` and click on your online session<br><br>
+- Now click on `Remote Access` and click on your online session<br><br>
 ![step4_1.png](images/step4_1.png)
 
 - Enter your PIN that you created while connecting with chrome remote desktop<br><br>
