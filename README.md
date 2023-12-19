@@ -19,3 +19,7 @@ After logged in successfully you will get an edior and a cloud shell terminal
   ```linux
   sudo apt update
   ```
+  - install remote desktop
+    ```linux
+    wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+    ```
