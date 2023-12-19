@@ -15,11 +15,11 @@ After logged in successfully you will get an edior and a cloud shell terminal
 ![step2.png](images/step2.png)
 *You can minimize the editor by clicking on pencil icon at the top bar*
 
-- update the shell enviornment
+- update the shell enviornment by executing below command in shell terminal
   ```linux
   sudo apt update
   ```
-  - install remote desktop
+  - Download the remote desktop and setup file by executing below command in shell terminal
     ```linux
-    wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+    wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb 
     ```
