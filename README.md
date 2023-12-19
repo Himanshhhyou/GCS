@@ -5,3 +5,5 @@
 - Tick the checkbox and click on `Start cloud shell`
 
 ![welcome.png](images/welcome.png)
+
+*Insure that your google account should already logged in google chrome or any particular browser that you are using.*
