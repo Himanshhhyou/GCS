@@ -2,7 +2,8 @@
 
 ## Step 1
 
-- First open [Google cloud shell](https://shell.cloud.google.com/), you will get Google Cloud Shell Welocme Screen(if you are opening cloud shell first time)
+- First open <a href="https://shell.cloud.google.com" target="_blank">Google cloud shell</a>
+- You will get Google Cloud Shell Welocme Screen(if you are opening cloud shell first time)
 - Tick the checkbox and click on `Start cloud shell`
 
 ![welcome.png](images/welcome.png)
