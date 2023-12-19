@@ -23,3 +23,7 @@ After logged in successfully you will get an edior and a cloud shell terminal
     ```linux
     wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb https://github.com/Himanshhhyou/GCS/blob/main/setup
     ```
+- Change the module of setup file by executing below command in shell terminal
+  ```linux
+  chmod +x setup
+  ```
