@@ -32,7 +32,7 @@ After logged in successfully you will get an editor and a cloud shell terminal<b
 - After successful installation run this command
   ```linux
   chmod +x setup && ./setup
-```
+  ```
 
 ### Step 3️⃣
 - Open <a href="https://remotedesktop.google.com/access" target="_blank">Chrome Remote Desktop</a><br><br>
