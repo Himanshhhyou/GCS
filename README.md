@@ -31,7 +31,7 @@ sudo apt install ./chrome-remote-desktop_current_amd64.deb -y && sudo DEBIAN_FRO
 sudo apt-get install wine64 wine32 -y
 ```
 
-## Step3
+## Step 3
 - Open [Chrome Remote Desktop](https://remotedesktop.google.com/access) <br><br>
 ![step3_1.png](images/step3_1.png)
 
@@ -46,4 +46,15 @@ sudo apt-get install wine64 wine32 -y
 
 - Click on `Authorize` and copy the Code of `Debian Linux`<br><br>
 ![step3_5.png](images/step3_5.png)
+
+## Step 4
+Now click on `Access Remote Desktop` and click on your online session 
+![step4_1.png](images/step4_1.png)
+
+Enter your PIN that you created while connecting with chrome remote desktop 
+![step4_2.png](images/step4_2.png)
+
+## Finally 
+Enjoy the Cloud based Debian OS with Graphical user interface 
+![final.png](images/final.png)
 
