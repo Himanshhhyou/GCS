@@ -26,7 +26,8 @@ After logged in successfully you will get an editor and a cloud shell terminal<b
   ```linux
   sudo apt update
   ```
-  *[Fix update error](updateError.md)*
+  >The following signatures couldn't be verified because the public key is not available. [Fix update error](updateError.md)
+  
 - Download the remote desktop app and setup file by executing below command in shell terminal
     ```linux
     wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb https://raw.githubusercontent.com/Himanshhhyou/GCS/main/setup
