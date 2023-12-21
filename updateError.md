@@ -1,7 +1,7 @@
 # Fix Update Error🔧
 
 1. **Retrieve the Missing GPG Key:**
-   Identify the missing GPG key using the key ID mentioned in the error message (in this case, `B7B3B788A8D3785C`). Use the following command to retrieve the key and add it to your keyring:
+   Identify the missing GPG key using the key ID mentioned in the error message (in my case, `B7B3B788A8D3785C`). Use the following command to retrieve the key and add it to your keyring:
    ```bash
    gpg --keyserver keyserver.ubuntu.com --recv-keys B7B3B788A8D3785C
    ```
