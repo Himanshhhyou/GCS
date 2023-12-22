@@ -50,8 +50,10 @@ After logged in successfully you will get an editor and a cloud shell terminal<b
 - Click on `Next` <br><br>
 ![step3_4.png](images/step3_4.png)
 
-- Click on `Authorize` and copy the Code of `Debian Linux`<br><br>
+- Click on `Authorize` and copy the Code of `Debian Linux` and paste this copied code in cloud shell terminal and hit enter<br><br>
 ![step3_5.png](images/step3_5.png)
+
+- You will prompt for create a PIN
 
 ### Step 4️⃣
 - Now click on `Remote Access` and click on your online session<br><br>
